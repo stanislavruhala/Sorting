@@ -12,4 +12,4 @@ function sorting(arrayToSort) {
 }
 
 const sortedarrayToSort = sorting([2, 5, 2, 1, -9]);
-console.log({ sortedarrayToSort });# Sorting
+console.log({ sortedarrayToSort });
